@@ -8,8 +8,6 @@ import os
 # Carrega as variáveis do arquivo .env
 load_dotenv()
 
-print(f"Host: {os.getenv('DB_HOST')}")
-
 # Variáveis de configuração
 base_url = "https://crm.rdstation.com/api/v1/deals"
 token = os.getenv('RD_CRM_TOKEN')
