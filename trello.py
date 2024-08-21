@@ -19,36 +19,6 @@ MYSQL_DATABASE = os.getenv('DB_NAME')
 MYSQL_USER = os.getenv('DB_USER')
 MYSQL_PASSWORD = os.getenv('DB_PASSWORD')
 
-# Get the lists on the board
-def get_lists_on_board(board_id):
-    url = f"{BASE_URL}boards/{board_id}/lists"
-    query = {
-        'key': API_KEY,
-        'token': TOKEN,
-    }
-    response = requests.get(url, params=query)
-    return response.json() if response.status_code == 200 else []
-
-# Get the cards on a specific list
-def get_cards_on_list(list_id):
-    url = f"{BASE_URL}lists/{list_id}/cards"
-    query = {
-        'key': API_KEY,
-        'token': TOKEN,
-    }
-    response = requests.get(url, params=query)
-    return response.json() if response.status_code == 200 else []
-
-# Get the members of a specific card
-def get_card_members(card_id):
-    url = f"{BASE_URL}cards/{card_id}/members"
-    query = {
-        'key': API_KEY,
-        'token': TOKEN,
-    }
-    response = requests.get(url, params=query)
-    return response.json() if response.status_code == 200 else []
-
 # Create the table if it doesn't exist
 def create_table_if_not_exists(cursor):
     create_table_query = """
@@ -62,6 +32,56 @@ def create_table_if_not_exists(cursor):
     );
     """
     cursor.execute(create_table_query)
+
+# Get the lists on the board
+def get_lists_on_board(board_id):
+    url = f"{BASE_URL}boards/{board_id}/lists"
+    query = {
+        'key': API_KEY,
+        'token': TOKEN,
+    }
+    response = requests.get(url, params=query)
+    return response.json() if response.status_code == 200 else []
+
+# Get all cards on a specific list with manual pagination
+def get_all_cards_from_list(list_id, limit=1000):
+    all_cards = []
+    before = None
+
+    while True:
+        query = {
+            'key': API_KEY,
+            'token': TOKEN,
+            'limit': limit
+        }
+        if before:
+            query['before'] = before
+
+        url = f"{BASE_URL}lists/{list_id}/cards"
+        response = requests.get(url, params=query)
+        cards = response.json()
+
+        if not cards:
+            break  # Exit loop if no more cards are returned
+
+        all_cards.extend(cards)
+        before = cards[-1]['id']  # Use the ID of the last card to get the next set
+
+        # If fewer than the limit was returned, we reached the end
+        if len(cards) < limit:
+            break
+
+    return all_cards
+
+# Get the members of a specific card
+def get_card_members(card_id):
+    url = f"{BASE_URL}cards/{card_id}/members"
+    query = {
+        'key': API_KEY,
+        'token': TOKEN,
+    }
+    response = requests.get(url, params=query)
+    return response.json() if response.status_code == 200 else []
 
 # Insert data into MySQL database
 def insert_data_to_mysql(board_id):
@@ -83,7 +103,7 @@ def insert_data_to_mysql(board_id):
             lists = get_lists_on_board(board_id)
             for trello_list in lists:
                 list_name = trello_list['name']
-                cards = get_cards_on_list(trello_list['id'])
+                cards = get_all_cards_from_list(trello_list['id'])
                 
                 for card in cards:
                     card_id = card['id']
@@ -92,17 +112,27 @@ def insert_data_to_mysql(board_id):
 
                     # Retrieve and insert members for each card
                     members = get_card_members(card_id)
-                    for member in members:
-                        member_id = member['id']
-                        member_name = member['fullName']
+                    if not members:  # Handle cards with no members
                         cursor.execute("""
                             INSERT INTO trello_cards (card_id, card_name, due_date, list_name, member_id, member_name) 
                             VALUES (%s, %s, %s, %s, %s, %s)
                             ON DUPLICATE KEY UPDATE 
                                 card_name=%s, due_date=%s, list_name=%s, member_id=%s, member_name=%s
                         """, 
-                        (card_id, card_name, due_date, list_name, member_id, member_name, 
-                         card_name, due_date, list_name, member_id, member_name))
+                        (card_id, card_name, due_date, list_name, None, None, 
+                         card_name, due_date, list_name, None, None))
+                    else:
+                        for member in members:
+                            member_id = member['id']
+                            member_name = member['fullName']
+                            cursor.execute("""
+                                INSERT INTO trello_cards (card_id, card_name, due_date, list_name, member_id, member_name) 
+                                VALUES (%s, %s, %s, %s, %s, %s)
+                                ON DUPLICATE KEY UPDATE 
+                                    card_name=%s, due_date=%s, list_name=%s, member_id=%s, member_name=%s
+                            """, 
+                            (card_id, card_name, due_date, list_name, member_id, member_name, 
+                             card_name, due_date, list_name, member_id, member_name))
 
             connection.commit()
             print("Data inserted successfully into MySQL database")
