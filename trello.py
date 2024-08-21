@@ -5,6 +5,9 @@ from mysql.connector import Error
 import requests
 import os
 
+# Carrega as variáveis do arquivo .env
+load_dotenv()
+
 # Your Trello API credentials
 API_KEY = f'{os.getenv("TRELLO_API_KEY")}'
 TOKEN = f'{os.getenv("TRELLO_TOKEN")}'
