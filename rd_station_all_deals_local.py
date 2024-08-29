@@ -21,10 +21,10 @@ params = {
 def connect_to_db():
     try:
         conn = mysql.connector.connect(
-            user = "root",
-            password = "admin",
-            host = "localhost",
-            database = "carbon-bi"
+            user = os.getenv('LH_DB_USER'),
+            password = os.getenv('LH_DB_PASSWORD'),
+            host = os.getenv('LH_DB_HOST'),
+            database = os.getenv('LH_DB_NAME')
         )
         print("Conexão com o banco de dados MySQL estabelecida.")
         return conn
