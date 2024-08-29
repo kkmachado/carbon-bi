@@ -5,6 +5,8 @@ import mysql.connector
 import requests
 import os
 
+print("Rodando script local...")
+
 # Carrega as variáveis do arquivo .env
 load_dotenv()
 
@@ -172,7 +174,7 @@ def fetch_rd_station_data(base_url, params):
     while True:
         response = requests.get(base_url, params=params)
         if response.status_code == 200:
-            print("Conexão com RD Station estabelecida.")
+            print(f"Dados do RD Station recebidos com sucesso {params['page']}")
             data = response.json()
             all_deals.extend(data['deals'])
             if data.get('has_more'):
