@@ -5,7 +5,7 @@ import mysql.connector
 import requests
 import os
 
-print("Rodando script local...")
+print("[LOCAL] Baixando dados do funil SDR...")
 
 # Carrega as variáveis do arquivo .env
 load_dotenv()
@@ -16,7 +16,8 @@ token = os.getenv('RD_CRM_TOKEN')
 params = {
     "token": token,
     "limit": 200,
-    "page": 1
+    "page": 1,
+    "deal_pipeline_id": os.getenv('RD_SDR_ID')
 }
 
 # Função para conectar ao banco de dados MySQL
@@ -39,7 +40,7 @@ def create_table_if_not_exists(conn):
     try:
         cursor = conn.cursor()
         create_table_query = """
-        CREATE TABLE IF NOT EXISTS rd_crm_all_deals (
+        CREATE TABLE IF NOT EXISTS rd_crm_sdr_deals (
             id VARCHAR(255) PRIMARY KEY,
             name VARCHAR(255),
             created_at DATE,
@@ -61,7 +62,7 @@ def create_table_if_not_exists(conn):
         """
         cursor.execute(create_table_query)
         conn.commit()
-        print("Tabela rd_crm_all_deals criada com sucesso.")
+        print("Tabela rd_crm_sdr_deals criada com sucesso.")
     except mysql.connector.Error as err:
         print(f"Error creating table: {err}")
 
@@ -87,7 +88,7 @@ def insert_or_update_data_to_db(conn, deals):
     try:
         cursor = conn.cursor()
         upsert_query = """
-            INSERT INTO rd_crm_all_deals (id, name, created_at, win, closed_at, user_name, deal_stage_name, deal_lost_reason_name, deal_source_name, executivo_de_conta, foi_feito_handoff, data_handoff, numero_proposta, marca_do_carro, modelo_do_carro, por_onde_chegou, como_conheceu_carbon)
+            INSERT INTO rd_crm_sdr_deals (id, name, created_at, win, closed_at, user_name, deal_stage_name, deal_lost_reason_name, deal_source_name, executivo_de_conta, foi_feito_handoff, data_handoff, numero_proposta, marca_do_carro, modelo_do_carro, por_onde_chegou, como_conheceu_carbon)
             VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
             ON DUPLICATE KEY UPDATE
                 name = VALUES(name),
@@ -187,13 +188,6 @@ def fetch_rd_station_data(base_url, params):
     return all_deals
 
 def main():
-    # Configurações da API do RD Station
-    params = {
-        "token": token,
-        "limit": 200,
-        "page": 1
-    }
-
     # Buscar dados do RD Station
     deals = fetch_rd_station_data(base_url, params)
     if deals:
