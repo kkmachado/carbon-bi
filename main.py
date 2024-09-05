@@ -24,12 +24,12 @@ def log_e_print(mensagem, nivel='info'):
 
 # Lista de scripts a serem executados
 scripts = [
-    'python3 ph_paid_users.py',
-    'python3 ph_overview.py',
-    'python3 ph_rd_lp_pageviews.py',
-    'python3 rd_station_all_deals.py',
-    'python3 rd_station_BDR_deals.py',
-    'python3 trello.py'
+    'python ph_paid_users.py',
+    'python ph_overview.py',
+    'python ph_rd_lp_pageviews.py',
+    'python rd_station_all_deals.py',
+    'python rd_station_BDR_deals.py',
+    'python trello.py'
 ]
 
 try:
