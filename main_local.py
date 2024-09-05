@@ -8,7 +8,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(message)s',
     handlers=[
-        logging.FileHandler("scripts.log"),  # Salva o log em um arquivo
+        logging.FileHandler("scripts_local.log"),  # Salva o log em um arquivo
         logging.StreamHandler()  # Também imprime no console
     ]
 )
@@ -24,12 +24,12 @@ def log_e_print(mensagem, nivel='info'):
 
 # Lista de scripts a serem executados
 scripts = [
-    'python3 ph_paid_users.py',
-    'python3 ph_overview.py',
-    'python3 ph_rd_lp_pageviews.py',
-    'python3 rd_station_all_deals.py',
-    'python3 rd_station_BDR_deals.py',
-    'python3 trello.py'
+    'python3 ph_paid_users_local.py',
+    'python3 ph_overview_local.py',
+    'python3 ph_rd_lp_pageviews_local.py',
+    'python3 rd_station_all_deals_local.py',
+    'python3 rd_station_BDR_deals_local.py',
+    'python3 trello_local.py'
 ]
 
 try:
