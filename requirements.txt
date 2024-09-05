@@ -1,5 +1,6 @@
 python-dotenv
 mysql.connector
+mysql-connector-python
 requests
 json
 dotenv
