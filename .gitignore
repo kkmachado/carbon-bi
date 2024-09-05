@@ -1,3 +1,5 @@
 .DS_Store
 .env
 .venv
+scripts_local.log
+scripts.log
