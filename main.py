@@ -27,7 +27,7 @@ scripts = [
     'python ph_paid_users.py',
     'python ph_overview.py',
     'python ph_rd_lp_pageviews.py',
-    'python rd_station_all_deals.py',
+    'python rd_station_SDR_deals.py',
     'python rd_station_BDR_deals.py',
     'python trello.py'
 ]
