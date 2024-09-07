@@ -1,8 +1,12 @@
 import json
 import os
+from dotenv import load_dotenv
 
 import mysql.connector
 import requests
+
+# Carrega as variáveis do arquivo .env
+load_dotenv()
 
 # Configuração da API PostHog
 api_url = "https://app.posthog.com/api/projects/41743/query/"
