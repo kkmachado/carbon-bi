@@ -64,8 +64,8 @@ try:
         log_e_print("----------------------------------------")
         log_e_print("### F I M ###")
 
-        # Aguarda 1 hora (3600 segundos) antes de repetir o loop
-        time.sleep(3600)
+        # Aguarda 30 minutos (1800 segundos) antes de repetir o loop
+        time.sleep(1800)
 
 except KeyboardInterrupt:
     log_e_print("Script interrompido pelo usuário.")
