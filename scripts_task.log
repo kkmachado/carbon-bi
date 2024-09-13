@@ -1,0 +1,1160 @@
+2024-09-11 12:32:16,573 - ### I N Í C I O ###
+2024-09-11 12:32:16,573 - ----------------------------------------
+2024-09-11 12:32:16,573 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 12:32:22,261 - -----------
+2024-09-11 12:32:22,261 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 12:32:26,918 - -----------
+2024-09-11 12:32:26,918 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 12:32:29,542 - -----------
+2024-09-11 12:32:29,542 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 12:32:31,870 - -----------
+2024-09-11 12:32:31,870 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 12:33:21,589 - -----------
+2024-09-11 12:33:21,589 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 12:33:23,120 - -----------
+2024-09-11 12:33:23,120 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 12:34:09,880 - -----------
+2024-09-11 12:34:09,880 - Tempo total de execução do loop: 113.31 segundos
+2024-09-11 12:34:09,880 - Horário de término do loop: 12:34:09
+2024-09-11 12:34:09,880 - ----------------------------------------
+2024-09-11 12:34:09,880 - ### F I M ###
+2024-09-11 12:56:56,730 - ### I N Í C I O ###
+2024-09-11 12:56:56,730 - ----------------------------------------
+2024-09-11 12:56:56,730 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 12:57:05,208 - -----------
+2024-09-11 12:57:05,208 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 12:57:09,484 - -----------
+2024-09-11 12:57:09,484 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 12:57:11,859 - -----------
+2024-09-11 12:57:11,859 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 12:57:14,578 - -----------
+2024-09-11 12:57:14,578 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 12:58:04,281 - -----------
+2024-09-11 12:58:04,281 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 12:58:05,828 - -----------
+2024-09-11 12:58:05,828 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 12:59:07,284 - -----------
+2024-09-11 12:59:07,300 - Tempo total de execução do loop: 130.57 segundos
+2024-09-11 12:59:07,300 - Horário de término do loop: 12:59:07
+2024-09-11 12:59:07,300 - ----------------------------------------
+2024-09-11 12:59:07,300 - ### F I M ###
+2024-09-11 13:26:56,724 - ### I N Í C I O ###
+2024-09-11 13:26:56,724 - ----------------------------------------
+2024-09-11 13:26:56,724 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 13:27:17,022 - -----------
+2024-09-11 13:27:17,022 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 13:27:21,392 - -----------
+2024-09-11 13:27:21,392 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 13:27:28,002 - -----------
+2024-09-11 13:27:28,002 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 13:27:36,908 - -----------
+2024-09-11 13:27:36,908 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 13:28:31,112 - -----------
+2024-09-11 13:28:31,112 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 13:28:32,846 - -----------
+2024-09-11 13:28:32,862 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 13:29:30,010 - -----------
+2024-09-11 13:29:30,010 - Tempo total de execução do loop: 153.29 segundos
+2024-09-11 13:29:30,010 - Horário de término do loop: 13:29:30
+2024-09-11 13:29:30,010 - ----------------------------------------
+2024-09-11 13:29:30,010 - ### F I M ###
+2024-09-11 13:56:56,668 - ### I N Í C I O ###
+2024-09-11 13:56:56,668 - ----------------------------------------
+2024-09-11 13:56:56,668 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 13:57:04,653 - -----------
+2024-09-11 13:57:04,653 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 13:57:08,699 - -----------
+2024-09-11 13:57:08,699 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 13:57:11,387 - -----------
+2024-09-11 13:57:11,387 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 13:57:13,856 - -----------
+2024-09-11 13:57:13,856 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 13:58:13,122 - -----------
+2024-09-11 13:58:13,138 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 13:58:14,716 - -----------
+2024-09-11 13:58:14,716 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 13:59:13,685 - -----------
+2024-09-11 13:59:13,685 - Tempo total de execução do loop: 137.02 segundos
+2024-09-11 13:59:13,685 - Horário de término do loop: 13:59:13
+2024-09-11 13:59:13,685 - ----------------------------------------
+2024-09-11 13:59:13,685 - ### F I M ###
+2024-09-11 14:26:56,670 - ### I N Í C I O ###
+2024-09-11 14:26:56,670 - ----------------------------------------
+2024-09-11 14:26:56,670 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 14:27:04,045 - -----------
+2024-09-11 14:27:04,045 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 14:27:10,499 - -----------
+2024-09-11 14:27:10,499 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 14:27:13,311 - -----------
+2024-09-11 14:27:13,311 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 14:27:17,108 - -----------
+2024-09-11 14:27:17,108 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 14:28:10,656 - -----------
+2024-09-11 14:28:10,656 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 14:28:12,265 - -----------
+2024-09-11 14:28:12,265 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 14:28:57,547 - -----------
+2024-09-11 14:28:57,547 - Tempo total de execução do loop: 120.88 segundos
+2024-09-11 14:28:57,547 - Horário de término do loop: 14:28:57
+2024-09-11 14:28:57,547 - ----------------------------------------
+2024-09-11 14:28:57,547 - ### F I M ###
+2024-09-11 14:56:56,667 - ### I N Í C I O ###
+2024-09-11 14:56:56,667 - ----------------------------------------
+2024-09-11 14:56:56,667 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 14:57:05,198 - -----------
+2024-09-11 14:57:05,214 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 14:57:10,792 - -----------
+2024-09-11 14:57:10,792 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 14:57:13,120 - -----------
+2024-09-11 14:57:13,120 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 14:57:16,823 - -----------
+2024-09-11 14:57:16,823 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 14:58:10,605 - -----------
+2024-09-11 14:58:10,605 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 14:58:12,199 - -----------
+2024-09-11 14:58:12,199 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 14:59:10,747 - -----------
+2024-09-11 14:59:10,762 - Tempo total de execução do loop: 134.10 segundos
+2024-09-11 14:59:10,762 - Horário de término do loop: 14:59:10
+2024-09-11 14:59:10,762 - ----------------------------------------
+2024-09-11 14:59:10,762 - ### F I M ###
+2024-09-11 15:26:56,673 - ### I N Í C I O ###
+2024-09-11 15:26:56,673 - ----------------------------------------
+2024-09-11 15:26:56,673 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 15:27:04,704 - -----------
+2024-09-11 15:27:04,704 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 15:27:10,720 - -----------
+2024-09-11 15:27:10,720 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 15:27:13,814 - -----------
+2024-09-11 15:27:13,814 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 15:27:16,392 - -----------
+2024-09-11 15:27:16,392 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 15:28:09,815 - -----------
+2024-09-11 15:28:09,815 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 15:28:11,393 - -----------
+2024-09-11 15:28:11,393 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 15:29:02,878 - -----------
+2024-09-11 15:29:02,878 - Tempo total de execução do loop: 126.20 segundos
+2024-09-11 15:29:02,893 - Horário de término do loop: 15:29:02
+2024-09-11 15:29:02,893 - ----------------------------------------
+2024-09-11 15:29:02,893 - ### F I M ###
+2024-09-11 15:56:56,675 - ### I N Í C I O ###
+2024-09-11 15:56:56,675 - ----------------------------------------
+2024-09-11 15:56:56,675 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 15:57:10,800 - -----------
+2024-09-11 15:57:10,800 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 15:57:17,191 - -----------
+2024-09-11 15:57:17,191 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 15:57:19,910 - -----------
+2024-09-11 15:57:19,910 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 15:57:23,238 - -----------
+2024-09-11 15:57:23,238 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 15:58:15,692 - -----------
+2024-09-11 15:58:15,707 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 15:58:17,286 - -----------
+2024-09-11 15:58:17,286 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 15:59:16,755 - -----------
+2024-09-11 15:59:16,755 - Tempo total de execução do loop: 140.08 segundos
+2024-09-11 15:59:16,755 - Horário de término do loop: 15:59:16
+2024-09-11 15:59:16,755 - ----------------------------------------
+2024-09-11 15:59:16,755 - ### F I M ###
+2024-09-11 16:26:56,677 - ### I N Í C I O ###
+2024-09-11 16:26:56,677 - ----------------------------------------
+2024-09-11 16:26:56,677 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 16:27:22,864 - -----------
+2024-09-11 16:27:22,864 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 16:27:37,896 - -----------
+2024-09-11 16:27:37,896 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 16:27:44,068 - -----------
+2024-09-11 16:27:44,068 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 16:27:47,005 - -----------
+2024-09-11 16:27:47,005 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 16:28:42,303 - -----------
+2024-09-11 16:28:42,303 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 16:28:43,897 - -----------
+2024-09-11 16:28:43,897 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 16:29:37,210 - -----------
+2024-09-11 16:29:37,210 - Tempo total de execução do loop: 160.53 segundos
+2024-09-11 16:29:37,210 - Horário de término do loop: 16:29:37
+2024-09-11 16:29:37,210 - ----------------------------------------
+2024-09-11 16:29:37,210 - ### F I M ###
+2024-09-11 16:56:56,679 - ### I N Í C I O ###
+2024-09-11 16:56:56,679 - ----------------------------------------
+2024-09-11 16:56:56,679 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 16:57:05,163 - -----------
+2024-09-11 16:57:05,179 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 16:57:09,179 - -----------
+2024-09-11 16:57:09,179 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 16:57:11,757 - -----------
+2024-09-11 16:57:11,773 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 16:57:14,398 - -----------
+2024-09-11 16:57:14,398 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 16:58:06,462 - -----------
+2024-09-11 16:58:06,462 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 16:58:08,087 - -----------
+2024-09-11 16:58:08,087 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 16:59:12,447 - -----------
+2024-09-11 16:59:12,447 - Tempo total de execução do loop: 135.77 segundos
+2024-09-11 16:59:12,447 - Horário de término do loop: 16:59:12
+2024-09-11 16:59:12,447 - ----------------------------------------
+2024-09-11 16:59:12,447 - ### F I M ###
+2024-09-11 17:26:56,962 - ### I N Í C I O ###
+2024-09-11 17:26:56,977 - ----------------------------------------
+2024-09-11 17:26:56,977 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 17:27:02,665 - -----------
+2024-09-11 17:27:02,665 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 17:27:11,790 - -----------
+2024-09-11 17:27:11,790 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 17:27:14,368 - -----------
+2024-09-11 17:27:14,368 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 17:27:17,665 - -----------
+2024-09-11 17:27:17,665 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 17:28:10,322 - -----------
+2024-09-11 17:28:10,338 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 17:28:11,994 - -----------
+2024-09-11 17:28:11,994 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 17:29:06,276 - -----------
+2024-09-11 17:29:06,276 - Tempo total de execução do loop: 129.30 segundos
+2024-09-11 17:29:06,276 - Horário de término do loop: 17:29:06
+2024-09-11 17:29:06,276 - ----------------------------------------
+2024-09-11 17:29:06,276 - ### F I M ###
+2024-09-11 17:56:56,670 - ### I N Í C I O ###
+2024-09-11 17:56:56,670 - ----------------------------------------
+2024-09-11 17:56:56,670 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 17:57:10,920 - -----------
+2024-09-11 17:57:10,920 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 17:57:20,076 - -----------
+2024-09-11 17:57:20,092 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 17:57:23,420 - -----------
+2024-09-11 17:57:23,420 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 17:57:29,373 - -----------
+2024-09-11 17:57:29,373 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 17:58:21,358 - -----------
+2024-09-11 17:58:21,358 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 17:58:23,015 - -----------
+2024-09-11 17:58:23,015 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 17:59:20,422 - -----------
+2024-09-11 17:59:20,422 - Tempo total de execução do loop: 143.75 segundos
+2024-09-11 17:59:20,422 - Horário de término do loop: 17:59:20
+2024-09-11 17:59:20,422 - ----------------------------------------
+2024-09-11 17:59:20,422 - ### F I M ###
+2024-09-11 18:26:56,673 - ### I N Í C I O ###
+2024-09-11 18:26:56,673 - ----------------------------------------
+2024-09-11 18:26:56,673 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 18:27:08,829 - -----------
+2024-09-11 18:27:08,829 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 18:27:19,657 - -----------
+2024-09-11 18:27:19,657 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 18:27:23,079 - -----------
+2024-09-11 18:27:23,079 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 18:27:27,360 - -----------
+2024-09-11 18:27:27,360 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 18:28:16,549 - -----------
+2024-09-11 18:28:16,564 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 18:28:18,517 - -----------
+2024-09-11 18:28:18,517 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 18:29:13,018 - -----------
+2024-09-11 18:29:13,018 - Tempo total de execução do loop: 136.35 segundos
+2024-09-11 18:29:13,018 - Horário de término do loop: 18:29:13
+2024-09-11 18:29:13,018 - ----------------------------------------
+2024-09-11 18:29:13,018 - ### F I M ###
+2024-09-11 18:56:56,676 - ### I N Í C I O ###
+2024-09-11 18:56:56,676 - ----------------------------------------
+2024-09-11 18:56:56,676 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 18:57:04,958 - -----------
+2024-09-11 18:57:04,958 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 18:57:09,395 - -----------
+2024-09-11 18:57:09,395 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 18:57:12,098 - -----------
+2024-09-11 18:57:12,098 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 18:57:14,489 - -----------
+2024-09-11 18:57:14,489 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 18:58:02,990 - -----------
+2024-09-11 18:58:03,005 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 18:58:04,630 - -----------
+2024-09-11 18:58:04,630 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 18:58:59,084 - -----------
+2024-09-11 18:58:59,084 - Tempo total de execução do loop: 122.41 segundos
+2024-09-11 18:58:59,084 - Horário de término do loop: 18:58:59
+2024-09-11 18:58:59,084 - ----------------------------------------
+2024-09-11 18:58:59,084 - ### F I M ###
+2024-09-11 19:26:56,681 - ### I N Í C I O ###
+2024-09-11 19:26:56,681 - ----------------------------------------
+2024-09-11 19:26:56,681 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-11 19:27:13,041 - -----------
+2024-09-11 19:27:13,041 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-11 19:27:23,041 - -----------
+2024-09-11 19:27:23,041 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-11 19:27:26,057 - -----------
+2024-09-11 19:27:26,057 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-11 19:27:31,291 - -----------
+2024-09-11 19:27:31,291 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-11 19:28:20,104 - -----------
+2024-09-11 19:28:20,104 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-11 19:28:21,933 - -----------
+2024-09-11 19:28:21,933 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-11 19:29:07,542 - -----------
+2024-09-11 19:29:07,542 - Tempo total de execução do loop: 130.86 segundos
+2024-09-11 19:29:07,542 - Horário de término do loop: 19:29:07
+2024-09-11 19:29:07,542 - ----------------------------------------
+2024-09-11 19:29:07,542 - ### F I M ###
+2024-09-12 09:52:27,408 - ### I N Í C I O ###
+2024-09-12 09:52:27,411 - ----------------------------------------
+2024-09-12 09:52:27,411 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 09:52:35,063 - -----------
+2024-09-12 09:52:35,063 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 09:52:43,766 - -----------
+2024-09-12 09:52:43,766 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 09:52:46,883 - -----------
+2024-09-12 09:52:46,883 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 09:52:49,111 - -----------
+2024-09-12 09:52:49,111 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 09:53:43,783 - -----------
+2024-09-12 09:53:43,794 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 09:53:45,267 - -----------
+2024-09-12 09:53:45,267 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 09:54:46,919 - -----------
+2024-09-12 09:54:46,919 - Tempo total de execução do loop: 139.51 segundos
+2024-09-12 09:54:46,919 - Horário de término do loop: 09:54:46
+2024-09-12 09:54:46,919 - ----------------------------------------
+2024-09-12 09:54:46,919 - ### F I M ###
+2024-09-12 10:22:26,683 - ### I N Í C I O ###
+2024-09-12 10:22:26,683 - ----------------------------------------
+2024-09-12 10:22:26,683 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 10:22:36,077 - -----------
+2024-09-12 10:22:36,077 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 10:22:39,698 - -----------
+2024-09-12 10:22:39,698 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 10:22:42,838 - -----------
+2024-09-12 10:22:42,838 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 10:22:45,131 - -----------
+2024-09-12 10:22:45,131 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 10:23:39,371 - -----------
+2024-09-12 10:23:39,371 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 10:23:40,817 - -----------
+2024-09-12 10:23:40,817 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 10:24:31,766 - -----------
+2024-09-12 10:24:31,766 - Tempo total de execução do loop: 125.08 segundos
+2024-09-12 10:24:31,766 - Horário de término do loop: 10:24:31
+2024-09-12 10:24:31,771 - ----------------------------------------
+2024-09-12 10:24:31,771 - ### F I M ###
+2024-09-12 10:52:26,702 - ### I N Í C I O ###
+2024-09-12 10:52:26,702 - ----------------------------------------
+2024-09-12 10:52:26,702 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 10:52:33,641 - -----------
+2024-09-12 10:52:33,641 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 10:52:37,402 - -----------
+2024-09-12 10:52:37,402 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 10:52:41,542 - -----------
+2024-09-12 10:52:41,542 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 10:52:43,773 - -----------
+2024-09-12 10:52:43,773 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 10:53:39,604 - -----------
+2024-09-12 10:53:39,616 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 10:53:41,106 - -----------
+2024-09-12 10:53:41,122 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 10:54:37,325 - -----------
+2024-09-12 10:54:37,325 - Tempo total de execução do loop: 130.62 segundos
+2024-09-12 10:54:37,325 - Horário de término do loop: 10:54:37
+2024-09-12 10:54:37,325 - ----------------------------------------
+2024-09-12 10:54:37,325 - ### F I M ###
+2024-09-12 11:22:26,711 - ### I N Í C I O ###
+2024-09-12 11:22:26,711 - ----------------------------------------
+2024-09-12 11:22:26,711 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 11:22:36,835 - -----------
+2024-09-12 11:22:36,835 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 11:22:45,365 - -----------
+2024-09-12 11:22:45,365 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 11:22:49,288 - -----------
+2024-09-12 11:22:49,288 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 11:22:52,756 - -----------
+2024-09-12 11:22:52,772 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 11:23:47,412 - -----------
+2024-09-12 11:23:47,427 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 11:23:49,136 - -----------
+2024-09-12 11:23:49,136 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 11:24:41,725 - -----------
+2024-09-12 11:24:41,725 - Tempo total de execução do loop: 135.01 segundos
+2024-09-12 11:24:41,725 - Horário de término do loop: 11:24:41
+2024-09-12 11:24:41,725 - ----------------------------------------
+2024-09-12 11:24:41,725 - ### F I M ###
+2024-09-12 11:52:26,657 - ### I N Í C I O ###
+2024-09-12 11:52:26,657 - ----------------------------------------
+2024-09-12 11:52:26,657 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 11:52:32,673 - -----------
+2024-09-12 11:52:32,689 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 11:52:36,595 - -----------
+2024-09-12 11:52:36,595 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 11:52:38,985 - -----------
+2024-09-12 11:52:38,985 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 11:52:41,157 - -----------
+2024-09-12 11:52:41,157 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 11:53:34,141 - -----------
+2024-09-12 11:53:34,141 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 11:53:35,798 - -----------
+2024-09-12 11:53:35,798 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 11:54:18,234 - -----------
+2024-09-12 11:54:18,234 - Tempo total de execução do loop: 111.58 segundos
+2024-09-12 11:54:18,234 - Horário de término do loop: 11:54:18
+2024-09-12 11:54:18,234 - ----------------------------------------
+2024-09-12 11:54:18,234 - ### F I M ###
+2024-09-12 12:22:26,662 - ### I N Í C I O ###
+2024-09-12 12:22:26,662 - ----------------------------------------
+2024-09-12 12:22:26,662 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 12:22:38,661 - -----------
+2024-09-12 12:22:38,661 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 12:22:46,068 - -----------
+2024-09-12 12:22:46,068 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 12:22:56,270 - -----------
+2024-09-12 12:22:56,270 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 12:23:00,333 - -----------
+2024-09-12 12:23:00,333 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 12:23:53,675 - -----------
+2024-09-12 12:23:53,675 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 12:23:55,535 - -----------
+2024-09-12 12:23:55,535 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 12:24:49,268 - -----------
+2024-09-12 12:24:49,268 - Tempo total de execução do loop: 142.61 segundos
+2024-09-12 12:24:49,268 - Horário de término do loop: 12:24:49
+2024-09-12 12:24:49,268 - ----------------------------------------
+2024-09-12 12:24:49,268 - ### F I M ###
+2024-09-12 12:52:26,658 - ### I N Í C I O ###
+2024-09-12 12:52:26,658 - ----------------------------------------
+2024-09-12 12:52:26,658 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 12:52:36,065 - -----------
+2024-09-12 12:52:36,080 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 12:52:41,377 - -----------
+2024-09-12 12:52:41,377 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 12:52:43,783 - -----------
+2024-09-12 12:52:43,783 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 12:52:46,158 - -----------
+2024-09-12 12:52:46,158 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 12:53:36,439 - -----------
+2024-09-12 12:53:36,439 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 12:53:38,142 - -----------
+2024-09-12 12:53:38,142 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 12:54:25,344 - -----------
+2024-09-12 12:54:25,344 - Tempo total de execução do loop: 118.69 segundos
+2024-09-12 12:54:25,344 - Horário de término do loop: 12:54:25
+2024-09-12 12:54:25,344 - ----------------------------------------
+2024-09-12 12:54:25,344 - ### F I M ###
+2024-09-12 13:22:26,646 - ### I N Í C I O ###
+2024-09-12 13:22:26,662 - ----------------------------------------
+2024-09-12 13:22:26,662 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 13:22:46,147 - -----------
+2024-09-12 13:22:46,147 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 13:22:54,522 - -----------
+2024-09-12 13:22:54,537 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 13:22:56,928 - -----------
+2024-09-12 13:22:56,928 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 13:23:00,396 - -----------
+2024-09-12 13:23:00,396 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 13:23:50,599 - -----------
+2024-09-12 13:23:50,599 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 13:23:52,208 - -----------
+2024-09-12 13:23:52,208 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 13:24:46,020 - -----------
+2024-09-12 13:24:46,020 - Tempo total de execução do loop: 139.36 segundos
+2024-09-12 13:24:46,020 - Horário de término do loop: 13:24:46
+2024-09-12 13:24:46,020 - ----------------------------------------
+2024-09-12 13:24:46,020 - ### F I M ###
+2024-09-12 13:52:26,659 - ### I N Í C I O ###
+2024-09-12 13:52:26,659 - ----------------------------------------
+2024-09-12 13:52:26,659 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 13:52:34,488 - -----------
+2024-09-12 13:52:34,488 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 13:52:38,002 - -----------
+2024-09-12 13:52:38,002 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 13:52:40,316 - -----------
+2024-09-12 13:52:40,316 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 13:52:42,550 - -----------
+2024-09-12 13:52:42,550 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 13:53:37,533 - -----------
+2024-09-12 13:53:37,533 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 13:53:39,142 - -----------
+2024-09-12 13:53:39,159 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 13:54:21,875 - -----------
+2024-09-12 13:54:21,875 - Tempo total de execução do loop: 115.22 segundos
+2024-09-12 13:54:21,875 - Horário de término do loop: 13:54:21
+2024-09-12 13:54:21,875 - ----------------------------------------
+2024-09-12 13:54:21,875 - ### F I M ###
+2024-09-12 14:22:26,634 - ### I N Í C I O ###
+2024-09-12 14:22:26,634 - ----------------------------------------
+2024-09-12 14:22:26,634 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 14:22:39,118 - -----------
+2024-09-12 14:22:39,118 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 14:22:43,915 - -----------
+2024-09-12 14:22:43,931 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 14:22:47,430 - -----------
+2024-09-12 14:22:47,430 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 14:22:53,180 - -----------
+2024-09-12 14:22:53,180 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 14:23:46,148 - -----------
+2024-09-12 14:23:46,164 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 14:23:47,790 - -----------
+2024-09-12 14:23:47,790 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 14:24:28,553 - -----------
+2024-09-12 14:24:28,553 - Tempo total de execução do loop: 121.92 segundos
+2024-09-12 14:24:28,553 - Horário de término do loop: 14:24:28
+2024-09-12 14:24:28,553 - ----------------------------------------
+2024-09-12 14:24:28,553 - ### F I M ###
+2024-09-12 14:52:26,672 - ### I N Í C I O ###
+2024-09-12 14:52:26,672 - ----------------------------------------
+2024-09-12 14:52:26,672 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 14:52:32,485 - -----------
+2024-09-12 14:52:32,485 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 14:52:36,453 - -----------
+2024-09-12 14:52:36,453 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 14:52:39,172 - -----------
+2024-09-12 14:52:39,172 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 14:52:41,376 - -----------
+2024-09-12 14:52:41,376 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 14:53:35,062 - -----------
+2024-09-12 14:53:35,062 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 14:53:36,734 - -----------
+2024-09-12 14:53:36,734 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 14:54:18,672 - -----------
+2024-09-12 14:54:18,672 - Tempo total de execução do loop: 112.00 segundos
+2024-09-12 14:54:18,672 - Horário de término do loop: 14:54:18
+2024-09-12 14:54:18,672 - ----------------------------------------
+2024-09-12 14:54:18,672 - ### F I M ###
+2024-09-12 15:22:26,646 - ### I N Í C I O ###
+2024-09-12 15:22:26,646 - ----------------------------------------
+2024-09-12 15:22:26,646 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 15:22:33,036 - -----------
+2024-09-12 15:22:33,036 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 15:22:43,411 - -----------
+2024-09-12 15:22:43,411 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 15:22:45,692 - -----------
+2024-09-12 15:22:45,692 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 15:22:49,832 - -----------
+2024-09-12 15:22:49,832 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 15:23:43,707 - -----------
+2024-09-12 15:23:43,707 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 15:23:45,379 - -----------
+2024-09-12 15:23:45,379 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 15:24:21,550 - -----------
+2024-09-12 15:24:21,550 - Tempo total de execução do loop: 114.90 segundos
+2024-09-12 15:24:21,550 - Horário de término do loop: 15:24:21
+2024-09-12 15:24:21,550 - ----------------------------------------
+2024-09-12 15:24:21,550 - ### F I M ###
+2024-09-12 15:52:26,670 - ### I N Í C I O ###
+2024-09-12 15:52:26,670 - ----------------------------------------
+2024-09-12 15:52:26,670 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 15:52:34,201 - -----------
+2024-09-12 15:52:34,201 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 15:52:38,310 - -----------
+2024-09-12 15:52:38,310 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 15:52:41,217 - -----------
+2024-09-12 15:52:41,232 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 15:52:43,748 - -----------
+2024-09-12 15:52:43,748 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 15:53:40,545 - -----------
+2024-09-12 15:53:40,545 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 15:53:42,405 - -----------
+2024-09-12 15:53:42,420 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 15:54:22,608 - -----------
+2024-09-12 15:54:22,608 - Tempo total de execução do loop: 115.94 segundos
+2024-09-12 15:54:22,608 - Horário de término do loop: 15:54:22
+2024-09-12 15:54:22,608 - ----------------------------------------
+2024-09-12 15:54:22,624 - ### F I M ###
+2024-09-12 16:22:26,656 - ### I N Í C I O ###
+2024-09-12 16:22:26,656 - ----------------------------------------
+2024-09-12 16:22:26,656 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 16:22:35,359 - -----------
+2024-09-12 16:22:35,359 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 16:22:39,734 - -----------
+2024-09-12 16:22:39,734 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 16:22:41,906 - -----------
+2024-09-12 16:22:41,906 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 16:22:44,249 - -----------
+2024-09-12 16:22:44,249 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 16:23:37,263 - -----------
+2024-09-12 16:23:37,263 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 16:23:38,919 - -----------
+2024-09-12 16:23:38,919 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 16:24:17,981 - -----------
+2024-09-12 16:24:17,981 - Tempo total de execução do loop: 111.32 segundos
+2024-09-12 16:24:17,981 - Horário de término do loop: 16:24:17
+2024-09-12 16:24:17,981 - ----------------------------------------
+2024-09-12 16:24:17,981 - ### F I M ###
+2024-09-12 16:52:26,663 - ### I N Í C I O ###
+2024-09-12 16:52:26,663 - ----------------------------------------
+2024-09-12 16:52:26,663 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 16:52:32,913 - -----------
+2024-09-12 16:52:32,913 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 16:52:36,866 - -----------
+2024-09-12 16:52:36,866 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 16:52:39,116 - -----------
+2024-09-12 16:52:39,116 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 16:52:41,413 - -----------
+2024-09-12 16:52:41,428 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 16:53:35,613 - -----------
+2024-09-12 16:53:35,613 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 16:53:37,348 - -----------
+2024-09-12 16:53:37,348 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 16:54:23,362 - -----------
+2024-09-12 16:54:23,362 - Tempo total de execução do loop: 116.70 segundos
+2024-09-12 16:54:23,362 - Horário de término do loop: 16:54:23
+2024-09-12 16:54:23,362 - ----------------------------------------
+2024-09-12 16:54:23,362 - ### F I M ###
+2024-09-12 17:22:26,719 - ### I N Í C I O ###
+2024-09-12 17:22:26,719 - ----------------------------------------
+2024-09-12 17:22:26,719 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 17:22:48,812 - -----------
+2024-09-12 17:22:48,812 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 17:23:05,592 - -----------
+2024-09-12 17:23:05,592 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 17:23:09,515 - -----------
+2024-09-12 17:23:09,515 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 17:23:17,014 - -----------
+2024-09-12 17:23:17,014 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 17:24:09,373 - -----------
+2024-09-12 17:24:09,373 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 17:24:11,091 - -----------
+2024-09-12 17:24:11,091 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 17:25:07,011 - -----------
+2024-09-12 17:25:07,011 - Tempo total de execução do loop: 160.29 segundos
+2024-09-12 17:25:07,011 - Horário de término do loop: 17:25:07
+2024-09-12 17:25:07,011 - ----------------------------------------
+2024-09-12 17:25:07,011 - ### F I M ###
+2024-09-12 17:52:26,686 - ### I N Í C I O ###
+2024-09-12 17:52:26,686 - ----------------------------------------
+2024-09-12 17:52:26,686 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 17:52:31,217 - -----------
+2024-09-12 17:52:31,217 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 17:52:35,092 - -----------
+2024-09-12 17:52:35,092 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 17:52:37,717 - -----------
+2024-09-12 17:52:37,717 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 17:52:40,670 - -----------
+2024-09-12 17:52:40,670 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 17:53:32,434 - -----------
+2024-09-12 17:53:32,449 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 17:53:34,449 - -----------
+2024-09-12 17:53:34,449 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 17:54:14,199 - -----------
+2024-09-12 17:54:14,199 - Tempo total de execução do loop: 107.51 segundos
+2024-09-12 17:54:14,199 - Horário de término do loop: 17:54:14
+2024-09-12 17:54:14,199 - ----------------------------------------
+2024-09-12 17:54:14,199 - ### F I M ###
+2024-09-12 18:22:26,643 - ### I N Í C I O ###
+2024-09-12 18:22:26,643 - ----------------------------------------
+2024-09-12 18:22:26,659 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 18:22:45,143 - -----------
+2024-09-12 18:22:45,143 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 18:22:53,736 - -----------
+2024-09-12 18:22:53,736 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 18:22:58,142 - -----------
+2024-09-12 18:22:58,142 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 18:23:02,675 - -----------
+2024-09-12 18:23:02,675 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 18:23:53,518 - -----------
+2024-09-12 18:23:53,518 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 18:23:55,408 - -----------
+2024-09-12 18:23:55,408 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 18:24:45,736 - -----------
+2024-09-12 18:24:45,736 - Tempo total de execução do loop: 139.09 segundos
+2024-09-12 18:24:45,736 - Horário de término do loop: 18:24:45
+2024-09-12 18:24:45,736 - ----------------------------------------
+2024-09-12 18:24:45,736 - ### F I M ###
+2024-09-12 18:52:26,679 - ### I N Í C I O ###
+2024-09-12 18:52:26,679 - ----------------------------------------
+2024-09-12 18:52:26,679 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 18:52:43,413 - -----------
+2024-09-12 18:52:43,413 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 18:52:47,116 - -----------
+2024-09-12 18:52:47,116 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 18:52:50,553 - -----------
+2024-09-12 18:52:50,553 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 18:52:52,803 - -----------
+2024-09-12 18:52:52,803 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 18:53:42,161 - -----------
+2024-09-12 18:53:42,192 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 18:53:44,474 - -----------
+2024-09-12 18:53:44,474 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 18:54:38,144 - -----------
+2024-09-12 18:54:38,144 - Tempo total de execução do loop: 131.47 segundos
+2024-09-12 18:54:38,144 - Horário de término do loop: 18:54:38
+2024-09-12 18:54:38,144 - ----------------------------------------
+2024-09-12 18:54:38,144 - ### F I M ###
+2024-09-12 19:22:26,638 - ### I N Í C I O ###
+2024-09-12 19:22:26,638 - ----------------------------------------
+2024-09-12 19:22:26,638 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-12 19:22:34,888 - -----------
+2024-09-12 19:22:34,888 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-12 19:22:41,982 - -----------
+2024-09-12 19:22:41,982 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-12 19:22:44,247 - -----------
+2024-09-12 19:22:44,247 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-12 19:22:46,934 - -----------
+2024-09-12 19:22:46,950 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-12 19:23:35,184 - -----------
+2024-09-12 19:23:35,184 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-12 19:23:37,028 - -----------
+2024-09-12 19:23:37,043 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-12 19:24:22,042 - -----------
+2024-09-12 19:24:22,058 - Tempo total de execução do loop: 115.40 segundos
+2024-09-12 19:24:22,058 - Horário de término do loop: 19:24:22
+2024-09-12 19:24:22,058 - ----------------------------------------
+2024-09-12 19:24:22,058 - ### F I M ###
+2024-09-13 07:52:22,749 - ### I N Í C I O ###
+2024-09-13 07:52:22,764 - ----------------------------------------
+2024-09-13 07:52:22,764 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 07:52:30,291 - -----------
+2024-09-13 07:52:30,291 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 07:52:35,705 - -----------
+2024-09-13 07:52:35,722 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 07:52:38,984 - -----------
+2024-09-13 07:52:38,984 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 07:52:41,372 - -----------
+2024-09-13 07:52:41,372 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 07:53:35,095 - -----------
+2024-09-13 07:53:35,095 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 07:53:37,079 - -----------
+2024-09-13 07:53:37,079 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 07:54:24,496 - -----------
+2024-09-13 07:54:24,496 - Tempo total de execução do loop: 121.73 segundos
+2024-09-13 07:54:24,496 - Horário de término do loop: 07:54:24
+2024-09-13 07:54:24,496 - ----------------------------------------
+2024-09-13 07:54:24,496 - ### F I M ###
+2024-09-13 08:22:21,951 - ### I N Í C I O ###
+2024-09-13 08:22:21,967 - ----------------------------------------
+2024-09-13 08:22:21,967 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 08:22:29,248 - -----------
+2024-09-13 08:22:29,248 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 08:22:34,827 - -----------
+2024-09-13 08:22:34,827 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 08:22:38,468 - -----------
+2024-09-13 08:22:38,468 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 08:22:44,187 - -----------
+2024-09-13 08:22:44,187 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 08:23:38,160 - -----------
+2024-09-13 08:23:38,160 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 08:23:40,129 - -----------
+2024-09-13 08:23:40,129 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 08:24:23,289 - -----------
+2024-09-13 08:24:23,289 - Tempo total de execução do loop: 121.32 segundos
+2024-09-13 08:24:23,289 - Horário de término do loop: 08:24:23
+2024-09-13 08:24:23,289 - ----------------------------------------
+2024-09-13 08:24:23,289 - ### F I M ###
+2024-09-13 08:52:21,947 - ### I N Í C I O ###
+2024-09-13 08:52:21,962 - ----------------------------------------
+2024-09-13 08:52:21,962 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 08:52:30,228 - -----------
+2024-09-13 08:52:30,243 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 08:52:34,774 - -----------
+2024-09-13 08:52:34,774 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 08:52:37,196 - -----------
+2024-09-13 08:52:37,196 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 08:52:39,821 - -----------
+2024-09-13 08:52:39,821 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 08:53:36,042 - -----------
+2024-09-13 08:53:36,042 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 08:53:38,041 - -----------
+2024-09-13 08:53:38,041 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 08:54:38,260 - -----------
+2024-09-13 08:54:38,260 - Tempo total de execução do loop: 136.30 segundos
+2024-09-13 08:54:38,260 - Horário de término do loop: 08:54:38
+2024-09-13 08:54:38,260 - ----------------------------------------
+2024-09-13 08:54:38,260 - ### F I M ###
+2024-09-13 09:22:21,935 - ### I N Í C I O ###
+2024-09-13 09:22:21,935 - ----------------------------------------
+2024-09-13 09:22:21,935 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 09:22:28,968 - -----------
+2024-09-13 09:22:28,968 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 09:22:39,091 - -----------
+2024-09-13 09:22:39,091 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 09:22:42,295 - -----------
+2024-09-13 09:22:42,295 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 09:22:45,998 - -----------
+2024-09-13 09:22:45,998 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 09:23:41,404 - -----------
+2024-09-13 09:23:41,404 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 09:23:43,327 - -----------
+2024-09-13 09:23:43,327 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 09:24:40,545 - -----------
+2024-09-13 09:24:40,545 - Tempo total de execução do loop: 138.61 segundos
+2024-09-13 09:24:40,545 - Horário de término do loop: 09:24:40
+2024-09-13 09:24:40,545 - ----------------------------------------
+2024-09-13 09:24:40,545 - ### F I M ###
+2024-09-13 09:52:21,940 - ### I N Í C I O ###
+2024-09-13 09:52:21,940 - ----------------------------------------
+2024-09-13 09:52:21,940 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 09:52:27,488 - -----------
+2024-09-13 09:52:27,488 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 09:52:31,770 - -----------
+2024-09-13 09:52:31,785 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 09:52:34,582 - -----------
+2024-09-13 09:52:34,598 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 09:52:37,349 - -----------
+2024-09-13 09:52:37,349 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 09:53:32,333 - -----------
+2024-09-13 09:53:32,333 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 09:53:34,177 - -----------
+2024-09-13 09:53:34,177 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 09:54:32,568 - -----------
+2024-09-13 09:54:32,568 - Tempo total de execução do loop: 130.63 segundos
+2024-09-13 09:54:32,568 - Horário de término do loop: 09:54:32
+2024-09-13 09:54:32,568 - ----------------------------------------
+2024-09-13 09:54:32,568 - ### F I M ###
+2024-09-13 10:22:22,402 - ### I N Í C I O ###
+2024-09-13 10:22:22,402 - ----------------------------------------
+2024-09-13 10:22:22,402 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 10:22:46,183 - -----------
+2024-09-13 10:22:46,183 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 10:22:56,417 - -----------
+2024-09-13 10:22:56,417 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 10:22:59,417 - -----------
+2024-09-13 10:22:59,417 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 10:23:05,542 - -----------
+2024-09-13 10:23:05,542 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 10:23:59,762 - -----------
+2024-09-13 10:23:59,762 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 10:24:01,606 - -----------
+2024-09-13 10:24:01,606 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 10:24:53,544 - -----------
+2024-09-13 10:24:53,544 - Tempo total de execução do loop: 151.14 segundos
+2024-09-13 10:24:53,544 - Horário de término do loop: 10:24:53
+2024-09-13 10:24:53,544 - ----------------------------------------
+2024-09-13 10:24:53,544 - ### F I M ###
+2024-09-13 10:52:21,911 - ### I N Í C I O ###
+2024-09-13 10:52:21,911 - ----------------------------------------
+2024-09-13 10:52:21,911 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 10:52:29,162 - -----------
+2024-09-13 10:52:29,162 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 10:52:39,427 - -----------
+2024-09-13 10:52:39,444 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 10:52:41,911 - -----------
+2024-09-13 10:52:41,911 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 10:52:45,380 - -----------
+2024-09-13 10:52:45,380 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 10:53:38,116 - -----------
+2024-09-13 10:53:38,116 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 10:53:39,833 - -----------
+2024-09-13 10:53:39,833 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 10:54:38,286 - -----------
+2024-09-13 10:54:38,286 - Tempo total de execução do loop: 136.38 segundos
+2024-09-13 10:54:38,286 - Horário de término do loop: 10:54:38
+2024-09-13 10:54:38,302 - ----------------------------------------
+2024-09-13 10:54:38,302 - ### F I M ###
+2024-09-13 11:22:21,914 - ### I N Í C I O ###
+2024-09-13 11:22:21,914 - ----------------------------------------
+2024-09-13 11:22:21,914 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 11:22:40,554 - -----------
+2024-09-13 11:22:40,554 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 11:22:50,523 - -----------
+2024-09-13 11:22:50,523 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 11:22:53,070 - -----------
+2024-09-13 11:22:53,070 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 11:22:56,382 - -----------
+2024-09-13 11:22:56,397 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 11:23:51,084 - -----------
+2024-09-13 11:23:51,084 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 11:23:53,303 - -----------
+2024-09-13 11:23:53,303 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 11:24:45,741 - -----------
+2024-09-13 11:24:45,741 - Tempo total de execução do loop: 143.83 segundos
+2024-09-13 11:24:45,741 - Horário de término do loop: 11:24:45
+2024-09-13 11:24:45,741 - ----------------------------------------
+2024-09-13 11:24:45,741 - ### F I M ###
+2024-09-13 11:52:21,916 - ### I N Í C I O ###
+2024-09-13 11:52:21,916 - ----------------------------------------
+2024-09-13 11:52:21,916 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 11:52:27,947 - -----------
+2024-09-13 11:52:27,947 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 11:52:32,119 - -----------
+2024-09-13 11:52:32,119 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 11:52:34,884 - -----------
+2024-09-13 11:52:34,884 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 11:52:37,212 - -----------
+2024-09-13 11:52:37,212 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 11:53:31,229 - -----------
+2024-09-13 11:53:31,245 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 11:53:33,401 - -----------
+2024-09-13 11:53:33,401 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 11:54:29,807 - -----------
+2024-09-13 11:54:29,807 - Tempo total de execução do loop: 127.89 segundos
+2024-09-13 11:54:29,807 - Horário de término do loop: 11:54:29
+2024-09-13 11:54:29,807 - ----------------------------------------
+2024-09-13 11:54:29,807 - ### F I M ###
+2024-09-13 12:22:21,896 - ### I N Í C I O ###
+2024-09-13 12:22:21,896 - ----------------------------------------
+2024-09-13 12:22:21,896 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 12:22:29,286 - -----------
+2024-09-13 12:22:29,302 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 12:22:35,068 - -----------
+2024-09-13 12:22:35,083 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 12:22:38,083 - -----------
+2024-09-13 12:22:38,083 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 12:22:41,458 - -----------
+2024-09-13 12:22:41,458 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 12:23:34,818 - -----------
+2024-09-13 12:23:34,818 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 12:23:36,896 - -----------
+2024-09-13 12:23:36,896 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 12:24:30,256 - -----------
+2024-09-13 12:24:30,272 - Tempo total de execução do loop: 128.38 segundos
+2024-09-13 12:24:30,272 - Horário de término do loop: 12:24:30
+2024-09-13 12:24:30,272 - ----------------------------------------
+2024-09-13 12:24:30,272 - ### F I M ###
+2024-09-13 12:52:21,904 - ### I N Í C I O ###
+2024-09-13 12:52:21,904 - ----------------------------------------
+2024-09-13 12:52:21,904 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 12:52:32,171 - -----------
+2024-09-13 12:52:32,171 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 12:52:36,202 - -----------
+2024-09-13 12:52:36,202 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 12:52:39,749 - -----------
+2024-09-13 12:52:39,749 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 12:52:43,389 - -----------
+2024-09-13 12:52:43,389 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 12:53:35,671 - -----------
+2024-09-13 12:53:35,686 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 12:53:37,858 - -----------
+2024-09-13 12:53:37,858 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 12:54:31,514 - -----------
+2024-09-13 12:54:31,514 - Tempo total de execução do loop: 129.61 segundos
+2024-09-13 12:54:31,514 - Horário de término do loop: 12:54:31
+2024-09-13 12:54:31,514 - ----------------------------------------
+2024-09-13 12:54:31,514 - ### F I M ###
+2024-09-13 13:22:21,889 - ### I N Í C I O ###
+2024-09-13 13:22:21,904 - ----------------------------------------
+2024-09-13 13:22:21,904 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 13:22:36,451 - -----------
+2024-09-13 13:22:36,451 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 13:22:45,872 - -----------
+2024-09-13 13:22:45,872 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 13:22:48,826 - -----------
+2024-09-13 13:22:48,841 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 13:22:54,716 - -----------
+2024-09-13 13:22:54,716 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 13:23:48,717 - -----------
+2024-09-13 13:23:48,717 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 13:23:50,872 - -----------
+2024-09-13 13:23:50,872 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 13:24:31,450 - -----------
+2024-09-13 13:24:31,450 - Tempo total de execução do loop: 129.55 segundos
+2024-09-13 13:24:31,450 - Horário de término do loop: 13:24:31
+2024-09-13 13:24:31,450 - ----------------------------------------
+2024-09-13 13:24:31,450 - ### F I M ###
+2024-09-13 13:52:21,893 - ### I N Í C I O ###
+2024-09-13 13:52:21,893 - ----------------------------------------
+2024-09-13 13:52:21,893 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 13:52:28,705 - -----------
+2024-09-13 13:52:28,705 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 13:52:33,346 - -----------
+2024-09-13 13:52:33,346 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 13:52:36,174 - -----------
+2024-09-13 13:52:36,174 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 13:52:38,908 - -----------
+2024-09-13 13:52:38,908 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 13:53:32,423 - -----------
+2024-09-13 13:53:32,423 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 13:53:34,595 - -----------
+2024-09-13 13:53:34,595 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 13:54:27,500 - -----------
+2024-09-13 13:54:27,516 - Tempo total de execução do loop: 125.62 segundos
+2024-09-13 13:54:27,516 - Horário de término do loop: 13:54:27
+2024-09-13 13:54:27,516 - ----------------------------------------
+2024-09-13 13:54:27,516 - ### F I M ###
+2024-09-13 14:22:21,868 - ### I N Í C I O ###
+2024-09-13 14:22:21,868 - ----------------------------------------
+2024-09-13 14:22:21,868 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 14:22:35,633 - -----------
+2024-09-13 14:22:35,633 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 14:22:42,197 - -----------
+2024-09-13 14:22:42,197 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 14:22:45,775 - -----------
+2024-09-13 14:22:45,775 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 14:22:52,587 - -----------
+2024-09-13 14:22:52,603 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 14:23:49,837 - -----------
+2024-09-13 14:23:49,837 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 14:23:51,914 - -----------
+2024-09-13 14:23:51,914 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 14:24:31,163 - -----------
+2024-09-13 14:24:31,163 - Tempo total de execução do loop: 129.30 segundos
+2024-09-13 14:24:31,163 - Horário de término do loop: 14:24:31
+2024-09-13 14:24:31,163 - ----------------------------------------
+2024-09-13 14:24:31,163 - ### F I M ###
+2024-09-13 14:52:21,854 - ### I N Í C I O ###
+2024-09-13 14:52:21,854 - ----------------------------------------
+2024-09-13 14:52:21,854 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 14:52:28,010 - -----------
+2024-09-13 14:52:28,010 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 14:52:38,948 - -----------
+2024-09-13 14:52:38,948 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 14:52:43,167 - -----------
+2024-09-13 14:52:43,167 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 14:52:47,636 - -----------
+2024-09-13 14:52:47,651 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 14:53:42,698 - -----------
+2024-09-13 14:53:42,698 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 14:53:46,152 - -----------
+2024-09-13 14:53:46,152 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 14:54:41,885 - -----------
+2024-09-13 14:54:41,932 - Tempo total de execução do loop: 140.05 segundos
+2024-09-13 14:54:41,932 - Horário de término do loop: 14:54:41
+2024-09-13 14:54:41,932 - ----------------------------------------
+2024-09-13 14:54:41,932 - ### F I M ###
+2024-09-13 15:22:21,849 - ### I N Í C I O ###
+2024-09-13 15:22:21,849 - ----------------------------------------
+2024-09-13 15:22:21,849 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 15:22:32,428 - -----------
+2024-09-13 15:22:32,428 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 15:22:37,865 - -----------
+2024-09-13 15:22:37,865 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 15:22:43,662 - -----------
+2024-09-13 15:22:43,662 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 15:22:46,583 - -----------
+2024-09-13 15:22:46,583 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 15:23:50,160 - -----------
+2024-09-13 15:23:50,176 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 15:23:52,411 - -----------
+2024-09-13 15:23:52,411 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 15:24:45,363 - -----------
+2024-09-13 15:24:45,363 - Tempo total de execução do loop: 143.51 segundos
+2024-09-13 15:24:45,363 - Horário de término do loop: 15:24:45
+2024-09-13 15:24:45,363 - ----------------------------------------
+2024-09-13 15:24:45,363 - ### F I M ###
+2024-09-13 15:52:22,276 - ### I N Í C I O ###
+2024-09-13 15:52:22,276 - ----------------------------------------
+2024-09-13 15:52:22,276 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 15:52:27,745 - -----------
+2024-09-13 15:52:27,745 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 15:52:32,307 - -----------
+2024-09-13 15:52:32,307 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 15:52:35,574 - -----------
+2024-09-13 15:52:35,574 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 15:52:38,511 - -----------
+2024-09-13 15:52:38,511 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 15:53:34,949 - -----------
+2024-09-13 15:53:34,949 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 15:53:37,574 - -----------
+2024-09-13 15:53:37,574 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 15:54:35,620 - -----------
+2024-09-13 15:54:35,620 - Tempo total de execução do loop: 133.34 segundos
+2024-09-13 15:54:35,620 - Horário de término do loop: 15:54:35
+2024-09-13 15:54:35,620 - ----------------------------------------
+2024-09-13 15:54:35,620 - ### F I M ###
+2024-09-13 16:22:21,829 - ### I N Í C I O ###
+2024-09-13 16:22:21,829 - ----------------------------------------
+2024-09-13 16:22:21,829 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 16:22:26,376 - -----------
+2024-09-13 16:22:26,376 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 16:22:35,188 - -----------
+2024-09-13 16:22:35,188 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 16:22:38,188 - -----------
+2024-09-13 16:22:38,188 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 16:22:42,923 - -----------
+2024-09-13 16:22:42,923 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 16:23:38,048 - -----------
+2024-09-13 16:23:38,048 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 16:23:40,094 - -----------
+2024-09-13 16:23:40,094 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 16:24:36,894 - -----------
+2024-09-13 16:24:36,894 - Tempo total de execução do loop: 135.07 segundos
+2024-09-13 16:24:36,894 - Horário de término do loop: 16:24:36
+2024-09-13 16:24:36,894 - ----------------------------------------
+2024-09-13 16:24:36,894 - ### F I M ###
+2024-09-13 16:52:21,956 - ### I N Í C I O ###
+2024-09-13 16:52:21,956 - ----------------------------------------
+2024-09-13 16:52:21,956 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 16:52:27,284 - -----------
+2024-09-13 16:52:27,284 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 16:52:31,722 - -----------
+2024-09-13 16:52:31,722 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 16:52:34,222 - -----------
+2024-09-13 16:52:34,222 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 16:52:36,643 - -----------
+2024-09-13 16:52:36,643 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 16:53:34,723 - -----------
+2024-09-13 16:53:34,737 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 16:53:36,956 - -----------
+2024-09-13 16:53:36,956 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 16:54:25,800 - -----------
+2024-09-13 16:54:25,800 - Tempo total de execução do loop: 123.84 segundos
+2024-09-13 16:54:25,800 - Horário de término do loop: 16:54:25
+2024-09-13 16:54:25,800 - ----------------------------------------
+2024-09-13 16:54:25,800 - ### F I M ###
+2024-09-13 17:22:21,835 - ### I N Í C I O ###
+2024-09-13 17:22:21,835 - ----------------------------------------
+2024-09-13 17:22:21,835 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 17:22:38,772 - -----------
+2024-09-13 17:22:38,772 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 17:22:43,116 - -----------
+2024-09-13 17:22:43,116 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 17:22:48,272 - -----------
+2024-09-13 17:22:48,272 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 17:22:50,943 - -----------
+2024-09-13 17:22:50,943 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 17:23:44,661 - -----------
+2024-09-13 17:23:44,661 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 17:23:47,349 - -----------
+2024-09-13 17:23:47,349 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 17:24:40,504 - -----------
+2024-09-13 17:24:40,504 - Tempo total de execução do loop: 138.67 segundos
+2024-09-13 17:24:40,504 - Horário de término do loop: 17:24:40
+2024-09-13 17:24:40,504 - ----------------------------------------
+2024-09-13 17:24:40,504 - ### F I M ###
+2024-09-13 17:40:09,133 - ### START ###
+2024-09-13 17:40:09,133 - ----------------------------------------
+2024-09-13 17:40:09,133 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py
+2024-09-13 17:40:09,149 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py
+2024-09-13 17:40:09,149 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py
+2024-09-13 17:40:09,149 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py
+2024-09-13 17:40:09,149 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py
+2024-09-13 17:40:09,149 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py
+2024-09-13 17:40:12,344 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py in 3.19 seconds
+2024-09-13 17:40:12,344 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py
+2024-09-13 17:40:13,586 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py in 4.44 seconds
+2024-09-13 17:40:13,594 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py in 4.44 seconds
+2024-09-13 17:40:18,055 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py in 8.91 seconds
+2024-09-13 17:40:18,548 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py in 9.41 seconds
+2024-09-13 17:41:00,788 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py in 48.44 seconds
+2024-09-13 17:41:03,210 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py in 54.06 seconds
+2024-09-13 17:41:03,210 - ----------------------------------------
+2024-09-13 17:41:03,210 - Total execution time: 54.08 seconds
+2024-09-13 17:41:03,210 - End time: 17:41:03
+2024-09-13 17:41:03,210 - ### END ###
+2024-09-13 17:47:58,769 - ### START ###
+2024-09-13 17:47:58,769 - ----------------------------------------
+2024-09-13 17:47:58,769 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py
+2024-09-13 17:48:15,957 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py in 17.19 seconds
+2024-09-13 17:48:15,957 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py
+2024-09-13 17:48:22,582 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py in 6.63 seconds
+2024-09-13 17:48:22,582 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py
+2024-09-13 17:48:26,550 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py in 3.97 seconds
+2024-09-13 17:48:26,560 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py
+2024-09-13 17:48:30,273 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py in 3.71 seconds
+2024-09-13 17:48:30,289 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py
+2024-09-13 17:49:21,468 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py in 51.18 seconds
+2024-09-13 17:49:21,468 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py
+2024-09-13 17:49:23,445 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py in 1.98 seconds
+2024-09-13 17:49:23,445 - Executing: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py
+2024-09-13 17:50:21,410 - Completed: c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py in 57.96 seconds
+2024-09-13 17:50:21,410 - ----------------------------------------
+2024-09-13 17:50:21,410 - Total execution time: 142.64 seconds
+2024-09-13 17:50:21,410 - End time: 17:50:21
+2024-09-13 17:50:21,410 - ### END ###
+2024-09-13 17:52:21,882 - ### I N Í C I O ###
+2024-09-13 17:52:21,882 - ----------------------------------------
+2024-09-13 17:52:21,892 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_paid_users_local.py"
+2024-09-13 17:52:27,221 - -----------
+2024-09-13 17:52:27,221 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"
+2024-09-13 17:52:30,965 - -----------
+2024-09-13 17:52:30,965 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"
+2024-09-13 17:52:34,173 - -----------
+2024-09-13 17:52:34,188 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"
+2024-09-13 17:52:36,611 - -----------
+2024-09-13 17:52:36,611 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"
+2024-09-13 17:53:40,437 - -----------
+2024-09-13 17:53:40,440 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"
+2024-09-13 17:53:42,614 - -----------
+2024-09-13 17:53:42,614 - Executando: python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"
+2024-09-13 17:54:38,139 - -----------
+2024-09-13 17:54:38,139 - Tempo total de execução do loop: 136.25 segundos
+2024-09-13 17:54:38,139 - Horário de término do loop: 17:54:38
+2024-09-13 17:54:38,139 - ----------------------------------------
+2024-09-13 17:54:38,152 - ### F I M ###

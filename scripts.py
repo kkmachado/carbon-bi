@@ -8,7 +8,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(message)s',
     handlers=[
-        logging.FileHandler("c:/Users/Administrator/Desktop/scripts.log"),  # Salva o log em um arquivo
+        logging.FileHandler("c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/scripts_task.log"),  # Salva o log em um arquivo
         logging.StreamHandler()  # Também imprime no console
     ]
 )
