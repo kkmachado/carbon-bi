@@ -107,7 +107,8 @@ def create_table_if_not_exists(conn):
         modelo_do_carro VARCHAR(255),
         por_onde_chegou VARCHAR(255),
         como_conheceu_carbon VARCHAR(255),
-        momento_de_compra VARCHAR(255)
+        momento_de_compra VARCHAR(255),
+        concessionaria VARCHAR(255)
     );
     """
     try:
@@ -157,9 +158,9 @@ def insert_or_update_data_to_db(conn, deals):
             id, name, created_at, win, closed_at, user_name, deal_stage_name,
             deal_lost_reason_name, deal_source_name, executivo_de_conta,
             foi_feito_handoff, data_handoff, numero_proposta, marca_do_carro,
-            modelo_do_carro, por_onde_chegou, como_conheceu_carbon, momento_de_compra
+            modelo_do_carro, por_onde_chegou, como_conheceu_carbon, momento_de_compra, concessionaria
         )
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         ON DUPLICATE KEY UPDATE
             name = VALUES(name),
             created_at = VALUES(created_at),
@@ -177,7 +178,8 @@ def insert_or_update_data_to_db(conn, deals):
             modelo_do_carro = VALUES(modelo_do_carro),
             por_onde_chegou = VALUES(por_onde_chegou),
             como_conheceu_carbon = VALUES(como_conheceu_carbon),
-            momento_de_compra = VALUES(momento_de_compra);
+            momento_de_compra = VALUES(momento_de_compra),
+            concessionaria = VALUES(concessionaria);
     """
     try:
         with conn.cursor() as cursor:
@@ -203,6 +205,7 @@ def insert_or_update_data_to_db(conn, deals):
                 por_onde_chegou = get_field_value(custom_fields.get("Por onde chegou?"))
                 como_conheceu_carbon = get_field_value(custom_fields.get("Como conheceu a Carbon?"))
                 momento_de_compra = get_field_value(custom_fields.get("Momento de compra"))
+                concessionaria = get_field_value(custom_fields.get("Qual concessionária?"))
 
                 cursor.execute(
                     upsert_query,
@@ -224,7 +227,8 @@ def insert_or_update_data_to_db(conn, deals):
                         modelo_do_carro,
                         por_onde_chegou,
                         como_conheceu_carbon,
-                        momento_de_compra
+                        momento_de_compra,
+                        concessionaria
                     )
                 )
         logging.info("Database updated successfully.")
