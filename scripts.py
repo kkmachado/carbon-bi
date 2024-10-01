@@ -28,8 +28,8 @@ scripts = [
     'python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_overview_local.py"',
     'python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_lp_pageviews_local.py"',
     'python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/ph_rd_events_local.py"',
-    'python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local.py"',
-    'python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local.py"',
+    'python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_SDR_deals_local_NEW.py"',
+    'python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/rd_station_BDR_deals_local_NEW.py"',
     'python "c:/Users/Administrator/OneDrive - CARBON CARS/PowerBI/Scripts/carbon-bi/trello_local.py"'
 ]
 

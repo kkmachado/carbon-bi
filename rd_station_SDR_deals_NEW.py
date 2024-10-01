@@ -34,13 +34,13 @@ DB_USER = os.getenv('DB_USER')
 DB_PASSWORD = os.getenv('DB_PASSWORD')
 DB_HOST = os.getenv('DB_HOST')
 DB_NAME = os.getenv('DB_NAME')
-RD_SDR_ID = os.getenv('RD_SDR_ID')
+RD_PIPELINE_ID = os.getenv('RD_SDR_ID')
 
 def parse_arguments():
     """Parse command-line arguments."""
     parser = argparse.ArgumentParser(description='Process RD Station CRM deals.')
     parser.add_argument('--limit', type=int, default=200, help='Number of records per page.')
-    parser.add_argument('--pipeline_id', type=str, default=RD_SDR_ID, help='Deal pipeline ID.')
+    parser.add_argument('--pipeline_id', type=str, default=RD_PIPELINE_ID, help='Deal pipeline ID.')
     return parser.parse_args()
 
 def get_field_value(field_value):
@@ -119,6 +119,37 @@ def create_table_if_not_exists(conn):
         logging.error(f"Error creating table: {err}")
         sys.exit(1)
 
+def get_existing_deal_ids(conn):
+    """Fetch all existing deal IDs from the database."""
+    try:
+        with conn.cursor() as cursor:
+            cursor.execute("SELECT id FROM rd_crm_sdr_deals")
+            existing_ids = {row[0] for row in cursor.fetchall()}
+            return existing_ids
+    except mysql.connector.Error as err:
+        logging.error(f"Error fetching existing deal IDs: {err}")
+        raise
+
+def find_obsolete_deal_ids(existing_ids, fetched_deals):
+    """Identify deal IDs that are in the database but not in the fetched data."""
+    fetched_ids = {deal.get('_id') for deal in fetched_deals}
+    obsolete_ids = existing_ids - fetched_ids
+    return obsolete_ids
+
+def delete_obsolete_records(conn, obsolete_ids):
+    """Delete obsolete records from the database."""
+    if not obsolete_ids:
+        logging.info("No obsolete records to delete.")
+        return
+    delete_query = "DELETE FROM rd_crm_sdr_deals WHERE id IN (%s)" % ','.join(['%s'] * len(obsolete_ids))
+    try:
+        with conn.cursor() as cursor:
+            cursor.execute(delete_query, tuple(obsolete_ids))
+            logging.info(f"Deleted {cursor.rowcount} obsolete records from the database.")
+    except mysql.connector.Error as err:
+        logging.error(f"Error deleting obsolete records: {err}")
+        raise
+
 def insert_or_update_data_to_db(conn, deals):
     """Insert or update deal data into the database."""
     upsert_query = """
@@ -196,11 +227,10 @@ def insert_or_update_data_to_db(conn, deals):
                         momento_de_compra
                     )
                 )
-            conn.commit()
-            logging.info("Database updated successfully.")
+        logging.info("Database updated successfully.")
     except mysql.connector.Error as err:
         logging.error(f"Error inserting or updating data: {err}")
-        sys.exit(1)
+        raise
 
 def fetch_rd_station_data(base_url, params):
     """Fetch deal data from RD Station CRM API."""
@@ -255,13 +285,34 @@ def main():
             if conn:
                 # Ensure the table exists
                 create_table_if_not_exists(conn)
+
+                # Begin transaction
+                conn.start_transaction()
+
+                # Fetch existing deal IDs from the database
+                existing_ids = get_existing_deal_ids(conn)
+
                 # Insert or update the data
                 insert_or_update_data_to_db(conn, deals)
+
+                # Find and delete obsolete records
+                obsolete_ids = find_obsolete_deal_ids(existing_ids, deals)
+                delete_obsolete_records(conn, obsolete_ids)
+
+                # Commit transaction
+                conn.commit()
+                logging.info("Database transaction committed successfully.")
+
                 conn.close()
         else:
             logging.warning("No deals were fetched from RD Station.")
     except Exception as e:
         logging.error(f"An unexpected error occurred: {e}")
+        # Rollback transaction if any error occurs
+        if 'conn' in locals() and conn.is_connected():
+            conn.rollback()
+            logging.info("Database transaction rolled back due to error.")
+            conn.close()
         sys.exit(1)
 
 if __name__ == "__main__":
